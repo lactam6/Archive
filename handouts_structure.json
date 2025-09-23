@@ -1,0 +1,1163 @@
+{
+  "name": "handouts",
+  "type": "directory",
+  "children": [
+    {
+      "name": "人体解剖学",
+      "type": "directory",
+      "children": [
+        {
+          "name": "実習",
+          "type": "directory",
+          "children": [
+            {
+              "name": "実習1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 1841392
+            },
+            {
+              "name": "実習2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 1862067
+            },
+            {
+              "name": "実習3.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3235539
+            },
+            {
+              "name": "実習4.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3864687
+            },
+            {
+              "name": "実習5.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2762121
+            },
+            {
+              "name": "実習6.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 6500812
+            },
+            {
+              "name": "実習7.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2118707
+            },
+            {
+              "name": "実習8.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3034469
+            },
+            {
+              "name": "実習9.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 1346904
+            },
+            {
+              "name": "実習10.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2828543
+            },
+            {
+              "name": "実習11.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3306125
+            },
+            {
+              "name": "実習12.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 4790025
+            },
+            {
+              "name": "実習13.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 4992768
+            },
+            {
+              "name": "実習14.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3381361
+            },
+            {
+              "name": "実習15.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 4681669
+            },
+            {
+              "name": "実習16.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3042267
+            },
+            {
+              "name": "実習17.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2440365
+            },
+            {
+              "name": "実習18.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2519396
+            },
+            {
+              "name": "実習19.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3739476
+            },
+            {
+              "name": "実習20.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 1899737
+            },
+            {
+              "name": "実習21.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2183815
+            },
+            {
+              "name": "実習22.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3034782
+            },
+            {
+              "name": "実習23.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2908298
+            },
+            {
+              "name": "実習24.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 5675349
+            },
+            {
+              "name": "実習25.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 5080947
+            },
+            {
+              "name": "実習26.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3423445
+            },
+            {
+              "name": "実習27.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3000420
+            },
+            {
+              "name": "実習28.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2293191
+            },
+            {
+              "name": "実習29.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2248222
+            },
+            {
+              "name": "実習30.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2453007
+            },
+            {
+              "name": "実習31.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2018805
+            },
+            {
+              "name": "実習32.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3765361
+            }
+          ]
+        },
+        {
+          "name": "小テスト",
+          "type": "directory",
+          "children": []
+        },
+        {
+          "name": "画像解剖",
+          "type": "directory",
+          "children": [
+            {
+              "name": "#1_骨・胸部.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 25928242
+            },
+            {
+              "name": "#2_上腹部.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 32491269
+            },
+            {
+              "name": "#3_骨盤・脳.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 8987123
+            }
+          ]
+        },
+        {
+          "name": "系統",
+          "type": "directory",
+          "children": [
+            {
+              "name": "系統1_総論.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 946797
+            },
+            {
+              "name": "系統2_運動器系・呼吸器系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 5080488
+            },
+            {
+              "name": "系統3_生殖器系・内分泌系・造血器系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 7188455
+            },
+            {
+              "name": "系統4_消化器系・泌尿器系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 12324298
+            },
+            {
+              "name": "系統5_循環系・脈管系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 16499701
+            },
+            {
+              "name": "系統6_神経系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 8620503
+            },
+            {
+              "name": "系統7_感覚器系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 6372756
+            }
+          ]
+        },
+        {
+          "name": "骨学",
+          "type": "directory",
+          "children": [
+            {
+              "name": "骨学_実習手びき福井大学2024.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 655336
+            },
+            {
+              "name": "骨学1_総論.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2793828
+            },
+            {
+              "name": "骨学2_脊柱.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3146055
+            },
+            {
+              "name": "骨学3_胸郭.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 1179706
+            },
+            {
+              "name": "骨学4_上肢.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 3147277
+            },
+            {
+              "name": "骨学5_下肢.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 2466709
+            },
+            {
+              "name": "骨学6_頭蓋骨.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 7367591
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "生化学1",
+      "type": "directory",
+      "children": [
+        {
+          "name": "#1_オリエンテーション.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 7381495
+        },
+        {
+          "name": "#2_染色体.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 15257317
+        },
+        {
+          "name": "#3_細胞周期と遺伝情報の分配.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 10781574
+        },
+        {
+          "name": "#4_DNA複製.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 8277880
+        },
+        {
+          "name": "#5_DNA損傷・修復・組み換え.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 8428763
+        },
+        {
+          "name": "#6_遺伝子発現と調節・転写.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 8547055
+        },
+        {
+          "name": "#7_遺伝子発現と調節・翻訳とタンパク折り畳み.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 9933359
+        },
+        {
+          "name": "#8_遺伝子発現と調節・転写因子、エピジェネティックス.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 8570517
+        },
+        {
+          "name": "#9_遺伝子発現と調節・転写後の調節・非翻訳RNA.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 6067007
+        },
+        {
+          "name": "#10_遺伝子発現と制御・多細胞生物への遺伝子発現回路.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 6458555
+        },
+        {
+          "name": "#11_酵素.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 26697707
+        },
+        {
+          "name": "#12_ヌクレオチド代謝.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 15949405
+        },
+        {
+          "name": "#13_アミノ酸の構造.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 29172228
+        },
+        {
+          "name": "#14_免疫学入門と感染症対策.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 38110262
+        },
+        {
+          "name": "#15_細胞、分子、生体システムの解析方法①.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 12168552
+        },
+        {
+          "name": "#16_微量栄養素.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 13700161
+        },
+        {
+          "name": "#17_細胞、分子、生体システムの解析方法②.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 8013789
+        },
+        {
+          "name": "#18_アミノ酸代謝.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 6804928
+        },
+        {
+          "name": "#19_細胞、分子、生体システムの解析方法③.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 3313863
+        },
+        {
+          "name": "#20_遺伝子治療とウイルスベクター.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 22289596
+        }
+      ]
+    },
+    {
+      "name": "生化学2",
+      "type": "directory",
+      "children": [
+        {
+          "name": "#1_脂質の化学.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 133
+        },
+        {
+          "name": "#2_糖の化学.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#3_糖代謝1.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#4_糖代謝2.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#5_脂質の代謝.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#6_マトリックスの生化学.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#7_酸化ストレス.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#8_進化.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#9_がんの生化学.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#10_肝糖代謝と糖の流れ.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#11_薬物代謝.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        }
+      ]
+    },
+    {
+      "name": "生命情報科学2",
+      "type": "directory",
+      "children": [
+        {
+          "name": "#1_小胞体と蛋白品質管理.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#2_小胞輸送.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#3_オートファジー.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        },
+        {
+          "name": "#4_細胞骨格.pdf",
+          "type": "file",
+          "extension": "pdf",
+          "size_bytes": 132
+        }
+      ]
+    },
+    {
+      "name": "発生学",
+      "type": "directory",
+      "children": [
+        {
+          "name": "ダイジェスト",
+          "type": "directory",
+          "children": [
+            {
+              "name": "#1_生殖子の形成.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#2_発生第1週から第2週まで.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#3_先天性疾患・先天異常.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#4_発生第3週から第8週まで.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#5_発生第3か月から出生まで.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#6_消化器系の発生1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#6_消化器系の発生2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#7_呼吸器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#8_感覚器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#9_泌尿器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#10_生殖器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#11_筋骨格系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#12_循環器系の発生1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#13_循環器系の発生2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#14_循環器系の発生3.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#15_神経系の発生1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#16_神経系の発生2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            }
+          ]
+        },
+        {
+          "name": "色付プリント",
+          "type": "directory",
+          "children": [
+            {
+              "name": "#1_生殖子の形成.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#2_発生第1週から第2週まで.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#3_先天性疾患・先天異常.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 130
+            },
+            {
+              "name": "#4_発生第3週から第8週まで.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#5_発生第3か月から出生まで.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#6_消化器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#7_呼吸器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#8_感覚器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#9_泌尿器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#10_生殖器系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#11_筋骨格系の発生.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#12_循環器系の発生1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#13_循環器系の発生2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#14_循環器系の発生3.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#15_神経系の発生1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "神経解剖学",
+      "type": "directory",
+      "children": [
+        {
+          "name": "ダイジェスト",
+          "type": "directory",
+          "children": [
+            {
+              "name": "#1_神経系の構成.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#2_終脳(大脳半球)の構造1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#3_終脳(大脳半球)の構造2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#4_大脳基底核.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#5_間脳1(視床上部・視床).pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#6_間脳2(視床下部).pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#7_脳神経1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#8_脊髄.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#9_脳幹.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#10_小脳.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#11_脳神経2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#11_脳神経3.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#12_大脳辺縁系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#13_主な神経路1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#13_主な神経路2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#14_錐体路1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#14_錐体路2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#15_錐体外路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#16_体性感覚路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#17_自律神経1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#17_自律神経2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#18_脳の血管.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            }
+          ]
+        },
+        {
+          "name": "白黒プリント",
+          "type": "directory",
+          "children": [
+            {
+              "name": "#1_神経系の構成.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#2_終脳（大脳半球）の構造1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#3_終脳（大脳半球）の構造2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#4_大脳基底核.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#5_間脳1（視床上部・視床）.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#6_間脳2（視床下部）.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#7_脳神経1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#8_脊髄.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#9_脳幹.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#10_小脳.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#11_脳神経2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#11_脳神経3.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#12_大脳辺縁系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#13_主な神経路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#14_錐体路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#15_錐体外路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#16_体性感覚路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#17_自律神経.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#18_脳の血管.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 133
+            },
+            {
+              "name": "#18_脳の血管_補足.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 133
+            }
+          ]
+        },
+        {
+          "name": "色付プリント",
+          "type": "directory",
+          "children": [
+            {
+              "name": "#1_神経系の構成.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#2_終脳(大脳半球)の構造1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#3_終脳(大脳半球)の構造2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#4_大脳基底核.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#5_間脳1(視床上部・視床).pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#6_間脳2(視床下部).pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#7_脳神経1.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#8_脊髄.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#9_脳幹.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#10_小脳.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#11_脳神経2.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#11_脳神経3.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#12_大脳辺縁系.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#13_主な神経路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#14_錐体路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#15_錐体外路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#16_体性感覚路.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 131
+            },
+            {
+              "name": "#17_自律神経.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 132
+            },
+            {
+              "name": "#18_脳の血管.pdf",
+              "type": "file",
+              "extension": "pdf",
+              "size_bytes": 133
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
